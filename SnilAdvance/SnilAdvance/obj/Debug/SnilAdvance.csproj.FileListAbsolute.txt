@@ -1,0 +1,7 @@
+c:\users\unforgiven\documents\visual studio 2015\Projects\SnilAdvance\SnilAdvance\bin\Debug\SnilAdvance.exe.config
+c:\users\unforgiven\documents\visual studio 2015\Projects\SnilAdvance\SnilAdvance\bin\Debug\SnilAdvance.exe
+c:\users\unforgiven\documents\visual studio 2015\Projects\SnilAdvance\SnilAdvance\bin\Debug\SnilAdvance.pdb
+c:\users\unforgiven\documents\visual studio 2015\Projects\SnilAdvance\SnilAdvance\obj\Debug\SnilAdvance.exe
+c:\users\unforgiven\documents\visual studio 2015\Projects\SnilAdvance\SnilAdvance\obj\Debug\SnilAdvance.pdb
+C:\Users\Unforgiven\Documents\Visual Studio 2015\Projects\SnilAdvance\SnilAdvance\obj\Debug\SnilAdvance.csprojAssemblyReference.cache
+C:\Users\Unforgiven\Documents\Visual Studio 2015\Projects\SnilAdvance\SnilAdvance\obj\Debug\SnilAdvance.csproj.CoreCompileInputs.cache
